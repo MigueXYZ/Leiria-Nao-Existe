@@ -11,10 +11,14 @@
             "id": "2fffe7a859972bd3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Ordem/Personagens/NPC'S/Dr. Gabriel Novák.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Dr. Gabriel Novák"
             }
           }
         ]
@@ -132,23 +136,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Ordem/Personagens/NPC'S/Dr. Gabriel Novák.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "abf31abda997636f",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of Dr. Gabriel Novák"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -167,18 +163,18 @@
   },
   "active": "2fffe7a859972bd3",
   "lastOpenFiles": [
-    "Ordem/Acontecimentos/Acidente de Avião.md",
     "Ordem/Personagens/NPC'S/Dr. Gabriel Novák.md",
-    "Ordem/Personagens/NPC'S",
-    "Ordem/Personagens",
-    "Untitled.md",
     "Ordem/Lugares/Cidades/Leiria.md",
+    "Ordem/Personagens/NPC'S",
+    "Ordem/Lugares/Cidades",
+    "Ordem/Acontecimentos/Acidente de Avião.md",
+    "Ordem/Personagens",
     "Ordem/Lugares",
     "Ordem/Acontecimentos",
-    "Ordem/Lugares/Cidades",
+    "Ordem",
+    "Untitled.md",
     "Untitled",
     "Inicio",
-    "Ordem",
     "Welcome.md"
   ]
 }
